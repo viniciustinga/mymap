@@ -1,2 +1,3 @@
 # mymap
-mymap
+
+Google Map example.
